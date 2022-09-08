@@ -1,0 +1,9 @@
+com\cg\jpacrud\dao\StudentDao.class
+com\cg\jpacrud\dao\StudentDaoImpl.class
+com\cg\jpacrud\entities\Student.class
+com\javabydeveloper\App.class
+com\cg\jpacrud\dao\JPAUtil.class
+com\cg\jpacrud\service\StudentServiceImpl.class
+com\cg\jpacrud\client\Client.class
+com\javabydeveloper\domain\Student.class
+com\cg\jpacrud\service\StudentService.class
